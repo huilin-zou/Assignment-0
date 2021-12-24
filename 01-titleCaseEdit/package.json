@@ -1,0 +1,15 @@
+{
+  "name": "titlecaseedit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "titleCaseEdit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Assignment-0"
+  },
+  "author": "Huilin Zou",
+  "license": "ISC"
+}

@@ -1,5 +1,5 @@
 {
-  "name": "ttp-pis-assignment-0-fundamentals-of-js",
+  "name": "greetfriend",
   "version": "1.0.0",
   "description": "This is a README file. Initial commit.",
   "main": "index.js",
@@ -30,7 +30,7 @@
     "type": "git",
     "url": "git+https://github.com/ajLapid718/TTP-PIS-Summer-2020-Assignment-0-Fundamentals-Of-JavaScript.git"
   },
-  "author": "",
+  "author": "Huilin Zou",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ajLapid718/TTP-PIS-Summer-2020-Assignment-0-Fundamentals-Of-JavaScript/issues"
